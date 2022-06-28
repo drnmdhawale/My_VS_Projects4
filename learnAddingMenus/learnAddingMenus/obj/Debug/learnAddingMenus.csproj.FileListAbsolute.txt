@@ -1,0 +1,9 @@
+c:\users\shree\documents\visual studio 2013\Projects\learnAddingMenus\learnAddingMenus\bin\Debug\learnAddingMenus.exe.config
+c:\users\shree\documents\visual studio 2013\Projects\learnAddingMenus\learnAddingMenus\bin\Debug\learnAddingMenus.exe
+c:\users\shree\documents\visual studio 2013\Projects\learnAddingMenus\learnAddingMenus\bin\Debug\learnAddingMenus.pdb
+c:\users\shree\documents\visual studio 2013\Projects\learnAddingMenus\learnAddingMenus\obj\Debug\learnAddingMenus.Form1.resources
+c:\users\shree\documents\visual studio 2013\Projects\learnAddingMenus\learnAddingMenus\obj\Debug\learnAddingMenus.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2013\Projects\learnAddingMenus\learnAddingMenus\obj\Debug\learnAddingMenus.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2013\Projects\learnAddingMenus\learnAddingMenus\obj\Debug\learnAddingMenus.exe
+c:\users\shree\documents\visual studio 2013\Projects\learnAddingMenus\learnAddingMenus\obj\Debug\learnAddingMenus.pdb
+c:\users\shree\documents\visual studio 2013\Projects\learnAddingMenus\learnAddingMenus\obj\Debug\learnAddingMenus.csprojResolveAssemblyReference.cache

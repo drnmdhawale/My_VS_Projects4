@@ -1,0 +1,9 @@
+c:\users\shree\documents\visual studio 2013\Projects\leanLoops\leanLoops\bin\Debug\leanLoops.exe.config
+c:\users\shree\documents\visual studio 2013\Projects\leanLoops\leanLoops\bin\Debug\leanLoops.exe
+c:\users\shree\documents\visual studio 2013\Projects\leanLoops\leanLoops\bin\Debug\leanLoops.pdb
+c:\users\shree\documents\visual studio 2013\Projects\leanLoops\leanLoops\obj\Debug\leanLoops.csprojResolveAssemblyReference.cache
+c:\users\shree\documents\visual studio 2013\Projects\leanLoops\leanLoops\obj\Debug\leanLoops.Form1.resources
+c:\users\shree\documents\visual studio 2013\Projects\leanLoops\leanLoops\obj\Debug\leanLoops.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2013\Projects\leanLoops\leanLoops\obj\Debug\leanLoops.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2013\Projects\leanLoops\leanLoops\obj\Debug\leanLoops.exe
+c:\users\shree\documents\visual studio 2013\Projects\leanLoops\leanLoops\obj\Debug\leanLoops.pdb
